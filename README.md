@@ -18,7 +18,6 @@ The project uses a small manually created dataset containing house characteristi
 - NumPy
 - Pandas
 - Scikit-learn
-
 ## 🤖 Model
 Linear Regression
 
