@@ -3,9 +3,7 @@
 
 ## 📌 Description
 A simple Machine Learning project that predicts house prices using **Linear Regression**.
-
 The project uses a small manually created dataset containing house characteristics to train a regression model and predict prices.
-
 ## 📊 Dataset Features
 - **Area:** House area (m²)
 - **Bedroom:** Number of bedrooms
